@@ -5,3 +5,4 @@ Platform:
     amd64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_amd64
     arm64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_arm64
 Version: 2.1.4
+Release: 1
