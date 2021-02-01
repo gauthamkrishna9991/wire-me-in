@@ -1,16 +1,13 @@
 # wire-me-in `(work-in-progress)`
 
+[//]: # (Project tags here.)
+[![project type: toy][project-type-badge: Toy Badge]][project-type-page] [![Project stage: Concept][project-stage-badge: Concept]][project-stage-page] ![License](https://img.shields.io/github/license/gauthamkrishna9991/wire-me-in)
+
 [//]: # (The project type, which is a 'toy' for now.)
-
-[![project type: toy][project-type-badge: Toy Badge]][project-type-page]
-
 [project-type-badge: Toy Badge]: https://img.shields.io/badge/project%20type-toy-blue
 [project-type-page]: https://project-types.github.io/#toy
 
 [//]: # (The project stage now, which is in the 'concept' stage.)
-
-[![Project stage: Concept][project-stage-badge: Concept]][project-stage-page]
-
 [project-stage-badge: Concept]: https://img.shields.io/badge/Project%20Stage-Concept-red.svg
 [project-stage-page]: https://blog.pother.ca/project-stages/
 
