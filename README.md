@@ -1,8 +1,19 @@
 # wire-me-in `(work-in-progress)`
 
-<a href="https://project-types.github.io/#toy">
-  <img src="https://img.shields.io/badge/project%20type-toy-blue" alt="Toy Badge"/>
-</a>
+[//]: # (The project type, which is a 'toy' for now.)
+
+[![project type: toy][project-type-badge: Toy Badge]][project-type-page]
+
+[project-type-badge: Toy Badge]: https://img.shields.io/badge/project%20type-toy-blue
+[project-type-page]: https://project-types.github.io/#toy
+
+[//]: # (The project stage now, which is in the 'concept' stage.)
+
+[![Project stage: Concept][project-stage-badge: Concept]][project-stage-page]
+
+[project-stage-badge: Concept]: https://img.shields.io/badge/Project%20Stage-Concept-red.svg
+[project-stage-page]: https://blog.pother.ca/project-stages/
+
 
 This is an easy-to-use utility for Cloudflare Confguration in WireGuard. This is used as a front-end for [wgcf](https://github.com/ViRb3/wgcf).
 
