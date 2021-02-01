@@ -1,0 +1,8 @@
+- version: "2.1.4"
+  platform:
+  - Darwin:
+    arch:
+      amd64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_darwin_amd64
+  - Linux:
+    arch:
+      amd64: 
