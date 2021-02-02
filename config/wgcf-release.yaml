@@ -1,8 +1,24 @@
+# YAML configuration file, written by goutham krishna k v. links are all from
+# this repo: https://github.com/ViRb3/wgcf
+# this determines the platform you are using
 Platform:
+  # for MacOS -> only AMD64 (64-x86 is supported for WGCF)
   Darwin:
     amd64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_darwin_amd64
+  # for Linux -> supports a wide variety of arcitectures
   Linux:
+    i386:  https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_386
     amd64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_amd64
     arm64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_arm64
+    armv6: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_armv6
+    armv7: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_armv7
+    mipsle_softfloat: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_mipsle_softfloat
+    mips_softfloat: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_linux_mips_softfloat
+  # supports 32-bit and 64-bit x86 architectures
+  Windows:
+    i386: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_windows_386.exe
+    amd64: https://github.com/ViRb3/wgcf/releases/download/v2.1.4/wgcf_2.1.4_windows_amd64.exe
+# the release number of the YAML file (for a specific version, if there are modifications)
+Release: 2
+# the version number of the wgcf release
 Version: 2.1.4
-Release: 1
